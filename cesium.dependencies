@@ -1,0 +1,12 @@
+[
+  {
+    "repository" : "AgentFabulous/begonia",
+    "target_path": "kernel/xiaomi/mt6785",
+    "branch" : "android-11.0"
+  },
+  {
+    "repository" : "PotatoDevices/vendor_redmi_begonia",
+    "target_path": "vendor/redmi/begonia",
+    "branch" : "dumaloo-release"
+  }
+]
